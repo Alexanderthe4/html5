@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        nav {
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 1em;
+        }
+        section {
+            padding: 2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mon Site Web</h1>
+    </header>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="sujet.html">Sujet</a>
+    </nav>
+    <section>
+        <h2>Bienvenue sur la page d'accueil</h2>
+        <p>Ceci est le contenu de la page d'accueil. Vous pouvez ajouter plus d'informations ici.</p>
+    </section>
+</body>
+</html>
